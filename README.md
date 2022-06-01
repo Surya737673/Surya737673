@@ -30,9 +30,9 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<a href="https://www.linkedin.com/in/surya-pratap-yadav-720116229/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="">
+<!-- 	<a href="">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
+	</a> -->
 
         <a href="https://silly-cajeta-771276.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -93,14 +93,14 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📈 Stats
+<!-- ## 📈 Stats -->
 
 <!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
 </p> -->
 
-## ✍🏻 Latest Blog Posts
+<!-- ## ✍🏻 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [What is a vector search engine?](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
