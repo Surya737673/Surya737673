@@ -30,16 +30,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<a href="https://www.linkedin.com/in/surya-pratap-yadav-720116229/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-<!-- 	<a href="">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a> -->
 
         <a href="https://silly-cajeta-771276.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-<!-- 	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a> -->
+
         <a href="mailto:suryayarav@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
@@ -118,40 +113,21 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ## 📕 Pinned Repositories
 
-<!-- <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
+<p align="center">
+	
+<a href="https://github.com/Surya737673/Healthkart-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya737673&repo=healthkart-clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
+<a href="https://github.com/Surya737673/DermStore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya737673&repo=Dermstore&hide_border=true&theme=radical" />
 </a>
+	
+ <a href="https://github.com/Surya737673/Nykaa-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya737673&repo=Nykaa-clone&hide_border=true&theme=radical" />
+ </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
-</a>
-
-</p> -->
+</p>
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
 
