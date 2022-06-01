@@ -1,6 +1,6 @@
   
 
-## Hey 👋, I'm Surya Pratap Yadav (https://github.com/Surya737673)
+## Hey 👋, I'm Surya Pratap Yadav 
 
 
 ### Glad to see you here! &nbsp;
