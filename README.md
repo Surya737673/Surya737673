@@ -1,28 +1,10 @@
-### Hi there 👋
+  
 
-<!--
-**Surya737673/Surya737673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋, I'm Surya Pratap Yadav (https://github.com/Surya737673)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
-
-<a href="https://github.com/Surya737673"><img src="/src/profile_banner.gif"></a>
-
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
-
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning [React](https://reactjs.org/).
+### Glad to see you here! &nbsp;
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
