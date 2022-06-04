@@ -84,8 +84,8 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
  ## 📈 Stats 
 
  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Surya737673&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya737673&hide_border=true&theme=radical" />
 </p> 
 
 <!-- ## ✍🏻 Latest Blog Posts -->
@@ -100,7 +100,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya737673&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
@@ -127,5 +127,5 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ---
 
 <p align="center">
-   <img src="https://github.com/Surya737673/Surya737673/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<!--    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only) -->
 </p>
