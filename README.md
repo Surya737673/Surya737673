@@ -70,8 +70,8 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) -->
+<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) -->
@@ -81,12 +81,12 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- ## 📈 Stats -->
+ ## 📈 Stats 
 
-<!-- <p align="center">
+ <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
-</p> -->
+</p> 
 
 <!-- ## ✍🏻 Latest Blog Posts -->
 
@@ -104,7 +104,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ---
 
-## 📕 Pinned Repositories
+<!-- ## 📕 Pinned Repositories
 
 <p align="center">
 	
@@ -120,12 +120,12 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surya737673&repo=Nykaa-clone&hide_border=true&theme=radical" />
  </a>
 
-</p>
+</p> -->
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
 
 ---
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/Surya737673/Surya737673/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
