@@ -25,7 +25,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<a href="https://www.linkedin.com/in/surya-pratap-yadav-720116229/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="https://silly-cajeta-771276.netlify.app/">
+        <a href="https://surya-portfolioo.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
         <a href="mailto:suryayarav@gmail.com">
