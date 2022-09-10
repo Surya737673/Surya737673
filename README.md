@@ -4,9 +4,9 @@
 
 
 ### Glad to see you here! &nbsp;
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here:
 
 <!-- <p align="center">
 	<a href="https://www.linkedin.com/in/surya-pratap-yadav-720116229/">
