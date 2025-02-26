@@ -22,7 +22,7 @@ Find out more about me & feel free to connect with me here:
 	</a>
 </p> -->
 <p align="center">
-	<a href="https://www.linkedin.com/in/surya-pratap-yadav-720116229/">
+	<a href="https://www.linkedin.com/in/surya-pratap-yadav-b469a2223/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
         <a href="https://surya-portfolioo.netlify.app/">
